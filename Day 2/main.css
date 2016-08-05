@@ -1,0 +1,32 @@
+h1{
+	color: #106405;
+	font-family: georgia;
+	text-align: center;
+}
+
+h2{
+	font-family: georgia; 
+	text-align: center;
+}
+
+h3{
+	font-family: georgia;
+	text-align: center;
+}
+
+h4{
+	text-transform: uppercase;
+}
+
+a:hover{
+	color:red;
+	text-decoration: underline;
+}
+
+a{
+	text-decoration: none;
+}
+
+img{
+	text-align: center;
+}
